@@ -6,8 +6,9 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  siteUrl: 'https://NadeeyaBY.github.io',
-  pathPrefix: '/my-gridsome-site',
   plugins: [],
+  siteUrl: 'https://NadeeyaBY.github.io',
+  pathPrefix: '/gridsome',
+
   
 }
